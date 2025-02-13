@@ -1,4 +1,9 @@
+
 # ✨ Sustainable Tourism: Smart & Sustainable Travel Experience in India ✨
+
+https://github.com/user-attachments/assets/9aecffa8-2f54-4fd4-b4f1-c644cecc2325
+
+
 
 ## Overview
 India's diverse tourism landscape is a major attraction, but it faces significant challenges, including overcrowding, lack of real-time information, inefficient waste management, and inadequate accessibility for differently-abled travelers. Our project aims to develop an innovative and feasible solution that enhances **sustainable tourism** in India by leveraging technology for **better crowd management, eco-friendly travel, and improved accessibility**.
